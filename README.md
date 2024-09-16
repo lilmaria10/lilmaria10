@@ -19,20 +19,4 @@ As a highly motivated and detail-oriented cybersecurity analyst, I stand at the 
 <!---
 lilmaria10/lilmaria10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->import tkinter as tk
-
-def change_background(color):
-    root.configure(bg=color)
-
-root = tk.Tk()
-root.title("Change Background Color")
-
-button_red = tk.Button(root, text="Red", command=lambda: change_background("red"))
-button_green = tk.Button(root, text="Green", command=lambda: change_background("green"))
-button_blue = tk.Button(root, text="Blue", command=lambda: change_background("blue"))
-
-button_red.pack(pady=10)
-button_green.pack(pady=10)
-button_blue.pack(pady=10)
-
-root.mainloop()
+--->
