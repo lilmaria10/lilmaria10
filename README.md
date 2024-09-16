@@ -3,8 +3,10 @@
 - 👀 I’m interested in cybersecury 
 - 🌱 I’m currently learning with meritamerica
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/maria-menendez-096563230
-cell: (980)215-3616 email: m.menendezpino@gmail.com
+- 📫 How to reach me:
+        ```
+www.linkedin.com/in/maria-menendez-096563230 / cell: (980)215-3616 / email: m.menendezpino@gmail.com
+        ```
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
