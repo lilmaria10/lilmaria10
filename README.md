@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @lilmaria10
 - 👀 I’m interested in cybersecury 
-- 🌱 I’m currently learning meritamerica
+- 🌱 I’m currently learning with meritamerica
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/maria-menendez-096563230
-
 (980)215-3616
 
 - 😄 Pronouns: ...
