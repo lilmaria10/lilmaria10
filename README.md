@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning with meritamerica
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-        ```
-www.linkedin.com/in/maria-menendez-096563230 / cell: (980)215-3616 / email: m.menendezpino@gmail.com
+  
+        ```www.linkedin.com/in/maria-menendez-096563230 / cell: (980)215-3616 / email: m.menendezpino@gmail.com
         ```
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-        ```As a teenager, I discovered my love for computers and coding. That introductory computer engineering class was like opening the door to a world of possibilities. During my formative years, I was drawn to the magic of computers. I was fascinated by how a few lines of code could transform a blank screen into a dynamic web page. I eagerly delved into coding—writing my first “Hello, World!” program felt like a rite of passage. I tinkered with HTML, CSS, and JavaScript, reveling in the power to create.
+        As a teenager, I discovered my love for computers and coding. That introductory computer engineering class was like opening the door to a world of possibilities. During my formative years, I was drawn to the magic of computers. I was fascinated by how a few lines of code could transform a blank screen into a dynamic web page. I eagerly delved into coding—writing my first “Hello, World!” program felt like a rite of passage. I tinkered with HTML, CSS, and JavaScript, reveling in the power to create.
  Linux, with its command-line interface and open-source ethos, captured my imagination. I spent countless hours exploring its intricacies, feeling like a digital explorer charting uncharted territory. For me, Linux was the epitome of cool. The terminal commands, the customizable desktop environments, and the community-driven development all felt like being part of an exclusive club. My journey didn’t end there. I continued my education, honed my coding skills, and explored cybersecurity. 
 Today, I aspire to contribute to this ever-evolving field. I aim to safeguard digital landscapes, uncover vulnerabilities, and create robust defenses. Whether it’s securing networks, analyzing malware, or educating users, I’m committed to making a difference.
 As a highly motivated and detail-oriented cybersecurity analyst with strong written and verbal communication skills, I draw from a unique experience. During my time as a home health aide, I keenly observed early signs of dementia in a patient. Recognizing the urgency, I promptly contacted my nurse supervisor, who advised calling 911 and arranging her hospital admission. My attention to detail in that critical moment ensured she received the necessary help swiftly.
