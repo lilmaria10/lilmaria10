@@ -1,14 +1,11 @@
 ## Maria Menendez Pino
-- 👋 Hi, I’m maria
-- 👀 I’m interested in cybersecury 
-- 🌱 I’m currently learning with meritamerica
-- 💞️ I’m looking to collaborate on ...
+-  Hi, I’m maria I’m interested in cybersecury  I’m currently learning with meritamerica
 - 📫 How to reach me:
   
-        ```www.linkedin.com/in/maria-menendez-096563230 / cell: (980)215-3616 / email: m.menendezpino@gmail.com
-        ```
+        www.linkedin.com/in/maria-menendez-096563230 / cell: (980)215-3616 / email: m.menendezpino@gmail.com
+        
 
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
    As a teenager, I discovered my love for computers and coding. That introductory computer engineering class was like opening the door to a world of possibilities. During my formative years, I was drawn to the magic of computers. I was fascinated by how a few lines of code could transform a blank screen into a dynamic web page. I eagerly delved into coding—writing my first “Hello, World!” program felt like a rite of passage. I tinkered with HTML, CSS, and JavaScript, reveling in the power to create.
