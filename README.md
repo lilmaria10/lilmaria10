@@ -2,7 +2,7 @@
 -  Hi, I’m maria I’m interested in cybersecury  I’m currently learning with meritamerica
 - 📫 How to reach me:
   
-        www.linkedin.com/in/maria-menendez-096563230 / cell: (980)215-3616 / email: m.menendezpino@gmail.com
+        www.linkedin.com/in/maria-menendez-096563230 / email: m.menendezpino@gmail.com
         
 
 
