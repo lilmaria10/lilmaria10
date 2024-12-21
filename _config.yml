@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Maria Menendez-Pino
+email: M.menendezpino@gmail.com
+url: https://www.linkedin.com/in/maria-menendez
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: Maria Menendez-Pino
 
 # Google webmaster tools
 google_verify:
@@ -14,7 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -25,32 +25,32 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: 800080 # A deep purple
+  primary-rgb: "128,0,128" # A deep purple
+  secondary: 9370DB # Medium purple
+  secondary-dark: 4B0082 # Indigo
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
-  location: Location
+  copyright: Maria Menendez-Pino
+  location: Mooresville, NC
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
-  - title: github
-    url: https://github.com/coachbeau
+  - title: Linkedin
+    url: https://www.linkedin.com/in/maria-menendez-pino
+  - title: GitHub
+    url: https://github.com/lilmaria10
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:m.menendezpino@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Mooresville, NC 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
@@ -60,7 +60,7 @@ Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack
 markdown: kramdown
 permalink: pretty
 
-#for posts
+# for posts
 defaults:
   - scope:
       path: ""
