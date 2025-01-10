@@ -2,38 +2,26 @@
 title: "Maria Menendez-Pino | Cybersecurity Portfolio"
 email: "m.menendezpino@gmail.com"
 url: "https://www.linkedin.com/in/maria-menendez-pino"
-description: "Showcasing cybersecurity projects and skills, including ethical hacking, risk management, and data analysis."
-keywords: "cybersecurity, cyber, security, portfolio, tech, risk management, ethical hacking, data analysis, incident response"
+description: "Showcasing my expertise in cybersecurity through projects and skills, including ethical hacking and risk management."
+keywords: "cybersecurity, portfolio, ethical hacking, risk management, incident response, vulnerability assessment, tech professional"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
 meta_author: "Maria Menendez-Pino"
 
-# Google webmaster tools
-google_verify:
-
-# Bing webmaster tools
-bing_verify:
-
-# Contact form
-contact: static
-
-# Disqus
-disqus_shortname: 
-
-# Color settings
+# Colors
 color:
-  primary: 6A0DAD # Royal purple
+  primary: 6A0DAD # Royal Purple
   primary-rgb: "106,13,173"
   secondary: D8BFD8 # Thistle
   secondary-dark: 4B0082 # Indigo
 
-# Footer settings
+# Footer
 footer:
   copyright: "© 2024 Maria Menendez-Pino. All Rights Reserved."
   location: "Mooresville, NC"
   social: "Connect with Me"
-  credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. Cyber icons by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
+  credits: 'Powered by Jekyll and Bootstrap. Icons by Freepik.'
 
-# Social media
+# Social Media
 social:
   - title: "LinkedIn"
     url: "https://www.linkedin.com/in/maria-menendez-pino"
@@ -42,18 +30,7 @@ social:
   - title: "Email"
     url: "mailto:m.menendezpino@gmail.com"
 
-# Postal address
-location:
-  - line: "Mooresville, NC"
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. Cyber icons by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-# Defaults for posts
+# Posts Defaults
 defaults:
   - scope:
       path: "_posts"
@@ -62,5 +39,6 @@ defaults:
       layout: post
       permalink: /:title/
 
-# Analytics
-google_analytics: UA-XXXXXXXXX-X
+# Build Settings
+markdown: kramdown
+permalink: pretty
