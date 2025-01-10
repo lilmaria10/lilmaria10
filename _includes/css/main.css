@@ -110,6 +110,10 @@ header .intro-text .name {
     font-weight: 700;
     color: #{{ site.color.secondary-dark }};
 }
+body {
+    overflow-x: hidden;
+    background-color: #E6E6FA; /* Light purple color */
+}
 
 header .intro-text .skills {
     font-size: 1.25em;
